@@ -19,8 +19,8 @@ Here some of [my fancy scripts in SQL](https://github.com/dmitry-chuprak/SQL/blo
 Check of [New recommendation system lanch](https://github.com/dmitry-chuprak/Portfolio/blob/main/AB_test_project.ipynb)
 
 
-### 4. Tableau Visualizations
-Numbers are cool, but pictures are even cooler (see in App data analyses)
+### 4. [Tableau Visualizations](https://public.tableau.com/app/profile/dmitrii.chuprak2444/vizzes)
+Numbers are cool, but pictures are even cooler
 
 
 ## How to Reach Me
