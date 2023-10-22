@@ -12,7 +12,7 @@ I've previously gained a wealth of experience in finance, but then gained data a
 
 
 ### 2. SQL Queries
-Here some of my fancy scripts in SQL
+Here some of [my fancy scripts in SQL](https://github.com/dmitry-chuprak/SQL/blob/main/stackoverflow_requests.sql)
 
 
 ### 3. A/B Testing
