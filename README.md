@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hello there!
 
-<!--
-**dmitry-chuprak/dmitry-chuprak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! 👋 I'm the data analyst who's all about finding stories in numbers
 
-Here are some ideas to get you started:
+I've previously gained a wealth of experience in finance, but then gained data analyst knowledged and now I ride new path.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What You'll Find Here
+
+### 1. Python Projects
+[App data analyses](https://github.com/dmitry-chuprak/Portfolio/blob/main/Analysis_of_App_eBash.ipynb), 
+[Gaming market research](https://github.com/dmitry-chuprak/Portfolio/blob/main/Gaming_market_analysis.ipynb) made in Python scripts and Jupyter notebooks
+
+
+### 2. SQL Queries
+Here some of my fancy scripts in SQL
+
+
+### 3. A/B Testing
+Check of [New recommendation system lanch](https://github.com/dmitry-chuprak/Portfolio/blob/main/AB_test_project.ipynb)
+
+
+### 4. Tableau Visualizations
+Numbers are cool, but pictures are even cooler (see in App data analyses)
+
+
+## How to Reach Me
+
+[LinkedIn](https://www.linkedin.com/in/chuprak/)
+
+Thanks for stopping by! 🏍️
