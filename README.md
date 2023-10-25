@@ -1,4 +1,4 @@
-## Hello there!
+# Hello there!
 
 Hey! 👋 I'm the experience data analyst who's all about finding stories in numbers which I gained from my finance past
 
