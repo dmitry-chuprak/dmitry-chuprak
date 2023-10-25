@@ -1,13 +1,11 @@
 ## Hello there!
 
-Hey! 👋 I'm the data analyst who's all about finding stories in numbers
-
-I've previously gained a wealth of experience in finance, but then gained data analyst knowledged and now I ride new path.
+Hey! 👋 I'm the experience data analyst who's all about finding stories in numbers which I gained from my finance past
 
 ## What You'll Find Here
 
 ### 1. Python Projects
-[App data analyses](https://github.com/dmitry-chuprak/Portfolio/blob/main/Analysis_of_App_eBash.ipynb), 
+[App data analysis](https://github.com/dmitry-chuprak/Portfolio/blob/main/Analysis_of_App_eBash.ipynb), 
 [Gaming market research](https://github.com/dmitry-chuprak/Portfolio/blob/main/Gaming_market_analysis.ipynb) made in Python scripts and Jupyter notebooks
 
 
